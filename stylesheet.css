@@ -5,11 +5,10 @@ body {
       background-color: ivory;
 }
 
-ul.menu {
-      list-style-type: none;
-      background: lightgray;
-      width: 100px;
-}
 h3 {
       font-family: 'Quicksand', sans-serif;
+}
+img {
+      width: 35%;
+      height: auto;
 }
